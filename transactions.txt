@@ -1,0 +1,3 @@
+SELL W1 Pen 10
+TRANSFER W2 W1 Notebook 50
+RESTOCK W3 Pencil 20

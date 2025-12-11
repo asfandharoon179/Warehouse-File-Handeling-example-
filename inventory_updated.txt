@@ -1,0 +1,5 @@
+3 4
+Pen Notebook Eraser Pencil 
+W1 90 70 50 5 
+W2 0 150 30 2 
+W3 40 15 10 20 
